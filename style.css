@@ -1,0 +1,16 @@
+body{
+    text-align:center;
+    background:lightskyblue;
+    color:rgb(255, 0, 140);
+    font-family:'Courier New', Courier, monospace;
+  }
+h1{
+font-family:"cursive";
+  }
+
+  #camera
+  {
+      width:360px;
+      height: 250px;
+      border:1px solid rgba(48, 45, 45, 0.253);
+  }
